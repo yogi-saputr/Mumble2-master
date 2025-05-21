@@ -1,0 +1,12 @@
+{
+  "name": "mumble2-videochat",
+  "version": "1.0.0",
+  "description": "Real-time video chat app with Agora",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
